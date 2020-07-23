@@ -4,8 +4,7 @@
     "description": "micro:bit multifunctional expansion board WuKong",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:elecfreaks/pxt-neopixel"
+        "core": "*"
     },
     "files": [
         "main.ts",
